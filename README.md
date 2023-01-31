@@ -1,9 +1,12 @@
 # kalkulacka-cp
+![CP kalkulacka](https://user-images.githubusercontent.com/32029267/215860620-bf28bb96-8748-46b9-b1b7-75dcb41f21a4.png)
+
 
 ## Project setup
 ```
 npm install
 ```
+
 
 ### Compiles and hot-reloads for development
 ```
